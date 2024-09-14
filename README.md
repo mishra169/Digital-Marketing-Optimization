@@ -3,6 +3,7 @@
 **Data Description**
 
 Performance Data
+
 _Google Ads_
 
 Google Ads is an online advertising platform where ads appear on Google Search results, YouTube, and various partner sites across the Google Display Network. Its purpose is to drive targeted traffic and achieve specific marketing goals through various ad formats. Here is a breakdown of the fields and data structure for Google Ads:
